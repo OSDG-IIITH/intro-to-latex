@@ -1,0 +1,54 @@
+@article{https://doi.org/10.1002/admt.202001023,
+author = {Mishra, Rishabh B. and El-Atab, Nazek and Hussain, Aftab M. and
+          Hussain, Muhammad M.},
+title = {Recent Progress on Flexible Capacitive Pressure Sensors: From Design
+         and Materials to Applications},
+journal = {Advanced Materials Technologies},
+volume = {6},
+number = {4},
+pages = {2001023},
+keywords = {applications of flexible capacitive pressure sensors, capacitive
+            sensing, flexible capacitive pressure sensors, flexible sensors,
+            pressure sensing},
+doi = {https://doi.org/10.1002/admt.202001023},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/admt.202001023},
+eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/admt.202001023},
+abstract = {Abstract For decades, the revolution in design and fabrication
+            methodology of flexible capacitive pressure sensors using various
+            inorganic/organic materials has significantly enhanced the field of
+            flexible and wearable electronics with a wide range of applications
+            in aerospace, automobiles, marine environment, robotics, healthcare,
+            and consumer/portable electronics. Mathematical modelling, finite
+            element simulations, and unique fabrication strategies are utilized
+            to fabricate diverse shapes of diaphragms, shells, and cantilevers
+            which function in normal, touch, or double touch modes, operation
+            principles inspired from microelectromechanical systems (MEMS) based
+            capacitive pressure sensing techniques. The capacitive pressure
+            sensing technique detects changes in capacitance due to the
+            deformation/deflection of a pressure sensitive mechanical element
+            that alters the separation gap of the capacitor. Due to advancement
+            in state-of-the-art fabrication technologies, the performance and
+            properties of capacitive pressure sensors are enhanced. In this
+            review paper, recent progress in flexible capacitive pressure
+            sensing techniques in terms of design, materials, and fabrication
+            strategies is reported. The mechanics and fabrication steps of
+            paper-based low-cost MEMS/flexible devices are also broadly
+            reported. Lastly, the applications of flexible capacitive pressure
+            sensors, challenges, and future perspectives are discussed.},
+year = {2021}
+}
+
+@article{https://doi.org/10.1002/adma.201504236,
+author = {Hussain, Aftab M. and Hussain, Muhammad M.},
+title = {CMOS-Technology-Enabled Flexible and Stretchable Electronics for Internet of Everything Applications},
+journal = {Advanced Materials},
+volume = {28},
+number = {22},
+pages = {4219-4249},
+keywords = {flexible electronics, stretchable electronics, bulk monocrystalline silicon (100)},
+doi = {https://doi.org/10.1002/adma.201504236},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201504236},
+eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/adma.201504236},
+abstract = {Flexible and stretchable electronics can dramatically enhance the application of electronics for the emerging Internet of Everything applications where people, processes, data and devices will be integrated and connected, to augment quality of life. Using naturally flexible and stretchable polymeric substrates in combination with emerging organic and molecular materials, nanowires, nanoribbons, nanotubes, and 2D atomic crystal structured materials, significant progress has been made in the general area of such electronics. However, high volume manufacturing, reliability and performance per cost remain elusive goals for wide commercialization of these electronics. On the other hand, highly sophisticated but extremely reliable, batch-fabrication-capable and mature complementary metal oxide semiconductor (CMOS)-based technology has facilitated tremendous growth of today's digital world using thin-film-based electronics; in particular, bulk monocrystalline silicon (100) which is used in most of the electronics existing today. However, one fundamental challenge is that state-of-the-art CMOS electronics are physically rigid and brittle. Therefore, in this work, how CMOS-technology-enabled flexible and stretchable electronics can be developed is discussed, with particular focus on bulk monocrystalline silicon (100). A comprehensive information base to realistically devise an integration strategy by rational design of materials, devices and processes for Internet of Everything electronics is offered.},
+year = {2016}
+}
